@@ -1,8 +1,8 @@
-baseURL = "/"
-languageCode = "en-us"
+baseURL = "https://hxloise.github.io/labveilletech"
+languageCode = "fr-CH"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Hugo Winston Theme"
+title = "Héloïse Cuche"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -16,17 +16,17 @@ pygmentsUseClasses = true
 [params]
   google_analytics_id = ""
   twitter_handle = "@zerostaticio"
-  showAuthorOnHomepage = true
+  showAuthorOnHomepage = false
   showAuthorOnPosts = false
   showPostsOnHomepage = false
   addDot = true
-  addFrame = true
-  highlightColor = '#7b16ff'
-  baseColor = "#ffffff"
+  addFrame = false
+  highlightColor = '#ffffff'
+  baseColor = "#000000"
   baseOffsetColor = "#eaeaea"
-  headingColor = "#1c1b1d"
-  textColor = "#4e5157"
-  dotColor = "#7b16ff"
+  headingColor = "#95A0BF"
+  textColor = "#95A0BF"
+  dotColor = "#95A0BF"
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]

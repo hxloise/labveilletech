@@ -2,12 +2,12 @@
   --font-family-heading: 'Poppins', sans-serif;
   --font-family-paragraph: Helvetica, sans-serif;
   --font-family-monospace: monospace;
-  --base-color: #000000;
+  --base-color: #ffffff;
   --base-offset-color: #eaeaea;
-  --highlight-color: #ffffff;
-  --heading-color: #95A0BF;
-  --text-color: #95A0BF;
-  --dot-color: #95A0BF; }
+  --highlight-color: #364A58;
+  --heading-color: #1c1b1d;
+  --text-color: #4e5157;
+  --dot-color: #364A58; }
 
 body, html {
   margin: 0;
