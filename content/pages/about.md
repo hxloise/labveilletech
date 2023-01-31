@@ -1,5 +1,5 @@
 ---
-title: 'À propos'
+title: 'About'
 # image: images/writer.jpeg
 url: "about"
 menu:
@@ -10,7 +10,7 @@ menu:
 
 ## Mais comment j'en suis arrivée là ?
 
-L’histoire commence lorsque je tombe sur le livre “**Disruption : Intelligence artificielle, fin du salariat, humanité augmentée**” de Stéphane Mallard. J’ai 18 ans, ma maturité gymnasiale en poche et surtout un tas de question en tête. Je réalise pour la première fois la puissance des technologies et ma curiosité est piquée. Durant mon Bachelor en Ingénierie des médias, je découvre le plaisir de résoudre des problématiques, apprécie la proximité avec les nouvelles technologies ainsi que l’aspect sociologique lié à l’utilisateur. Un domaine relie particulièrement bien ces thématiques : l’UX Design.
+L’histoire commence lorsque je tombe sur le livre “**Disruption : Intelligence artificielle, fin du salariat, humanité augmentée**” de Stéphane Mallard. J’ai 18 ans, ma maturité gymnasiale en poche et surtout un tas de question en tête. Je réalise pour la première fois la puissance des technologies et ma curiosité est piquée. Durant mon Bachelor en Ingénierie des médias, je découvre le plaisir de résoudre des problématiques, apprécie la proximité avec les nouvelles technologies ainsi que l’aspect sociologique lié à l’utilisateur. Un domaine relie particulièrement bien ces thématiques, amenant ainsi beaucoup de sens pour moi : l’UX Design.
 
 Étant amenée à réaliser un Ikigai, je précise encore ce choix. Effectivement, étant passionnée par le sport et la culture je souhaiterai, à terme, pouvoir lier ces domaines à mon activité professionnelle.
 
@@ -19,7 +19,7 @@ L’histoire commence lorsque je tombe sur le livre “**Disruption : Intelligen
 
 ## User eXperience : QÉSACO ?
 
-Au risque d’être réductrice dans mes propos, l’expérience utilisateur est un domaine qui a pour objectif de mettre au cœur de ses réflexions l’utilisateur d’une expérience finale (digitale ou réelle). Cela permet de partir d’une problématique et de concevoir une nouvelle solution, plus ou moins innovante, qui correspond aux personnes concerné·e·s par cette problématique. Par exemple, je constate que la recherche d’appartement est fastidieuse pour les personnes et que nombreuses d’entre elles finissent par se rabattre sur quelque chose qui ne satisfait pas ses besoins, ou qu’elles passent énormément de temps pour trouver un appartement, rendant cette expérience très frustrante. En partant de cette problématique, je pourrai entamer une démarche complète afin de proposer une nouvelle solution permettant de pallier ces problèmes.
+Au risque d’être réductrice dans mes propos, l’expérience utilisateur est un domaine qui a pour objectif de mettre au cœur de ses réflexions l’utilisateur·trice d’une expérience finale (digitale ou réelle). Cela permet de partir d’une problématique et de concevoir une nouvelle solution, plus ou moins innovante, qui correspond aux personnes concerné·e·s par cette problématique. Par exemple, je constate que la recherche d’appartement est fastidieuse pour les personnes et que nombreuses d’entre elles finissent par se rabattre sur quelque chose qui ne satisfait pas ses besoins, ou qu’elles passent énormément de temps pour trouver un appartement, rendant cette expérience très frustrante. En partant de cette problématique, je pourrai entamer une démarche complète afin de proposer une nouvelle solution permettant de pallier ces problèmes.
 
 ## Un domaine en “couche”
 
@@ -31,7 +31,7 @@ J’ai ensuite regroupé les thèmes qui visaient un but commun. J’ai ainsi ob
 ![Categorie](/labveilletech/images/04_categorie.png)
 Finalement j’ai nommé ces catégories.
 ![Categorie](/labveilletech/images/05_categorie.png)
-Ma conclusion est qu’une première couche du métier est en lien avec l’ingénierie. L’objectif étant d’avoir des méthodologies de recherche, d’optimiser des outils, de faire de l’analyse de données obtenues, d’être au courant des technologies utilisable pour des systèmes, etc. Une seconde couche est de comprendre l’utilisateur, son contexte ainsi que mon contexte. Quels sont les grands acteurs, les tendances, etc ? Finalement une dernière couche est la maîtrise d’outils permettant de concevoir des solutions, entre autre Figma. 
+Ma conclusion est qu’une première couche du métier est en lien avec l’ingénierie. L’objectif étant d’avoir des méthodologies de recherche, d’optimiser des outils, de faire de l’analyse de données obtenues, d’être au courant des technologies utilisables pour des systèmes, etc. Une seconde couche est de comprendre l’utilisateur·trice, son contexte ainsi que mon contexte. Quels sont les grands acteurs, les tendances, etc ? Finalement une dernière couche est la maîtrise d’outils permettant de concevoir des solutions, entre autre Figma. 
 
 En résumé, les sous-domaines sont : intelligence artificielle, web, recherche utilisateur, méthodologie de recherche, analyse de données, sociologie, design d’interface. 
 

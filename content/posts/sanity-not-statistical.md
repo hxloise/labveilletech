@@ -7,7 +7,7 @@ description: "Une liste de livre de référence est certainement une bonne chose
 
 ## Importance des livres
 
-L'idée de faire une liste de livre référentielle m'est venue durant un moment de veille sur Twitter. J'ai vu passé une longue liste et me suis dit que c'était l'occasion de la sauvegarder. L'idée est de la compléter lorsque je croise d'autre ressources.
+L'idée ici est de construire une liste de livre référentiels. C'est durant ma veille sur Twitter, envoyant passer une longue liste que je me suis dit que c'était l'occasion de la sauvegarder. Par la suite, je me suis dit que le plus pertinent à faire avec cette information était de débuter la mienne. L'idée est de la compléter avec d'autres ressources.
 
 ## Readlist
 
@@ -39,4 +39,4 @@ L'idée de faire une liste de livre référentielle m'est venue durant un moment
 La plupart des livre de cette liste viennent d'[ici](https://anthonyhobday.com/blog/20221230.html)
 
 ## Priorité
-L'objectif suivant va être de trier cette liste. 
+Avoir des références c'est bien, en faire quelque chose c'est mieux. C'est pourquoi, la prochaine étape consistera à prioriser les lectures et les commencer ! 
